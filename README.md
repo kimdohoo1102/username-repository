@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 김도후</h1>
 <h3 align="center">A passionate frontend developer from Republic of South Korea</h3>
 
-- 🌱 I’m currently learning **ML, DL**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **kimdohoo1102@gmail.com**
 
