@@ -1,3 +1,14 @@
-README.md
+<h1 align="center">Hi 👋, I'm 김도후</h1>
+<h3 align="center">A passionate frontend developer from Republic of South Korea</h3>
 
-Upsatage AI Lab 3기 김도후
+- 🌱 I’m currently learning **ML, DL**
+
+- 📫 How to reach me **kimdohoo1102@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
